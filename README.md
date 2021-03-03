@@ -5,7 +5,7 @@ Title of the manuscript: A novel framework for seamless mosaic of Cartosat-1 DEM
 
 Author details:
 
-1. DRReddy
+1. Rajesh
 
 Instructions to use this software:
 
