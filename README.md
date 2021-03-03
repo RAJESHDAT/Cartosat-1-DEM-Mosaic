@@ -36,8 +36,8 @@ All the three mosaic methods use "gdal_translate" command to crop the mosaic out
 B. FOLDER STURCTURE OF INPUT AND OUTPUT DATA:
 
    Sample input and output files are located in the folders TestData and OutputFiles, respectivley.
-   The file name of an input DEM scene has the following naming convention:     P5008536_1P_20061202_556295
-     where, P5 represents Sensor name followed by 6-digit orbit number,1P represents the payload followed by date in YYYYMMDD format; followed by path(3-digits) and row(last 3-digits);
+   The file name of an input DEM scene has the following naming convention:     XY008536_1P_20061202_556295
+     where, XY represents Sensor name followed by 6-digit orbit number,1P represents the payload followed by date in YYYYMMDD format; followed by path(3-digits) and row(last 3-digits);
 
 Input files (DEMs) must be placed in a folder with a tile name, e.g., ABC_D81_E21 and place it under the folder "TestData".
    
